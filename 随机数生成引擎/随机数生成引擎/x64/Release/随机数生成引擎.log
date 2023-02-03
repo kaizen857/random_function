@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\随机数生成引擎\随机数生成引擎\main.cpp(30,9): warning C4477: “printf”: 格式字符串“%S”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“char *”
+D:\随机数生成引擎\随机数生成引擎\main.cpp(30,9): message : 请考虑在格式字符串中使用“%hS”
+D:\随机数生成引擎\随机数生成引擎\main.cpp(30,9): message : 请考虑在格式字符串中使用“%TS”
+D:\随机数生成引擎\随机数生成引擎\main.cpp(37,10): warning C4477: “printf”: 格式字符串“%S”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“char *”
+D:\随机数生成引擎\随机数生成引擎\main.cpp(37,10): message : 请考虑在格式字符串中使用“%hS”
+D:\随机数生成引擎\随机数生成引擎\main.cpp(37,10): message : 请考虑在格式字符串中使用“%TS”
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 245 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  随机数生成引擎.vcxproj -> D:\随机数生成引擎\x64\Release\随机数生成引擎.exe
